@@ -1,2 +1,2 @@
 
-jenkis
+jenkins
