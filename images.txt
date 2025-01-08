@@ -1,3 +1,2 @@
-arm64v8/ubuntu:latest
 nginx
 redis
