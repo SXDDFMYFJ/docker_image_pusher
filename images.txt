@@ -1,2 +1,2 @@
 
-dashboard:v1.10.1
+kubernetes-dashboard-amd64:v1.10.0
