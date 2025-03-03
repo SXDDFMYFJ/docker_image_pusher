@@ -2,3 +2,4 @@ nginx
 redis
 mysql
 nodejs
+dashboard:v1.10.1
