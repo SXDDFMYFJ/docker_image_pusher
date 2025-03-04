@@ -1,1 +1,1 @@
-k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.0
+quar.io/bitnami/heapster:1.5.4
