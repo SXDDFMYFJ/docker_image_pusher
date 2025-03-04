@@ -1,1 +1,1 @@
-quar.io/bitnami/heapster:1.5.4
+ quar.io/bitnami/heapster:1.5.4
