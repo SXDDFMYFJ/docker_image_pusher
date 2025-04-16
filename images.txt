@@ -1,1 +1,2 @@
- quar.io/bitnami/heapster:1.5.4
+
+gitlab/gitlab-runner:15.8.0
