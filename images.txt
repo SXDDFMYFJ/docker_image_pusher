@@ -1,2 +1,2 @@
 
-gitlab/gitlab-runner:15.8.0
+gitlab/gitlab-runner:15.8
